@@ -72,3 +72,12 @@ Keerthan DS
 
 ![Customer & Geographic Performance](Customer-geographic-performance.png)
 
+Project Documentation
+
+I documented the main steps of this project, from data preparation to the final business insights.
+
+- "Data Cleaning and Preparation" (docs/data-cleaning.md)
+- "Data Model and Relationships" (docs/data-model.md)
+- "DAX Measures" (docs/dax-measures.md)
+- "Business Findings" (docs/business-findings.md)
+
