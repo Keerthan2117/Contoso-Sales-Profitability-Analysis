@@ -58,3 +58,17 @@ The report covers sales from 18 May 2016 to 31 December 2025. Profit is calculat
 Author
 Keerthan DS
 
+ *Dashboard Preview
+
+1. Sales Performance Overview
+
+![Sales Performance Overview](Sales-performance-overview.png)
+
+2. Product Profitability Analysis
+
+![Product Profitability Analysis](Product-profitability.png)
+
+3. Customer & Geographic Performance
+
+![Customer & Geographic Performance](Customer-geographic-performance.png)
+
